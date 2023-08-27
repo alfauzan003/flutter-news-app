@@ -19,3 +19,13 @@ flutter run
 ```
 
 Disarankan menggunakan flutter versi terbaru agar aplikasi dapat berjalan dengan baik
+
+## Screenshots
+### Login Page
+![Alt text](./screenshots/Picture1.png)
+### Homepage
+![Alt text](./screenshots/Picture2.png)
+### News Page
+![Alt text](./screenshots/Picture3.png)
+### Search Page
+![Alt text](./screenshots/Picture4.png)
